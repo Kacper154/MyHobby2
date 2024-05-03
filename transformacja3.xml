@@ -1,0 +1,29 @@
+
+
+<manga>
+   <chinska_bajka>
+      <Naruto>
+		Jakaś wartość
+	</Naruto>
+      <o_bajce>
+			Naruto to młody, hałaśliwy i nierozgarnięty ninja z Wioski Ukrytego Liścia. Jego największym marzeniem jest zostanie Hokage, jednak każdy w wiosce naśmiewa się z niego i mówi mu, że nie da rady. Naruto jednak nie poddaje się i stawia czoła wszystkim przeszkodom na swojej drodze, czym udowadnia innym, że się co do niego grubo mylili. Z czasem, ze słabego dzieciaka, którego każdy uważał za nic więcej jak potwora i nieudacznika, Naruto staje się silnym i odważnym shinobi, który ze wszystkich sił broni wioski i swoich przyjaciół, narażając przy tym własne życie.
+			</o_bajce>
+   </chinska_bajka>
+   <Linki>
+      <url>
+         <source>Naruto</source>
+         <strona source="https://shinden.pl/series/11-naruto">
+			Link
+		</strona>
+      </url>
+   </Linki>
+   <Your_Name>
+      <media>
+         <image source="img/minato.jpg">Minato z Naruto</image>
+         <image source="img/one.jpg">One Piece</image>
+         <image source="img/name.png">Your Name</image>
+         <image source="img/saitama.png">Saitama</image>
+      </media>
+   </Your_Name>
+</manga>
+

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="projekcik.xsl"?>
+<anime>
+
+	<tytuł> Moje ulubione Anime </tytuł>
+	<top> top 5 </top>
+	
+	<co>
+	<nazwa_anime nazwa="Naruto">
+		<nazwa>Naruto</nazwa>
+		<opis>
+			<gatunek shōnen="yes">
+				<tekst>gatunek: shōnen</tekst>
+				<zalecany_odb odb="dzieci/młodzież">
+					<tekst>dla dzieci i młodzieży</tekst>
+				</zalecany_odb>
+			</gatunek>
+			<ile_odc ponadsto="tak">
+				<tekst>liczba odc:</tekst>
+				<odc>720</odc>
+			</ile_odc>
+			<pierwowzór pierw="manga">
+				<tekst>na podstawie mangi</tekst>
+			</pierwowzór>
+			<tekst>
+			Naruto to młody, hałaśliwy i nierozgarnięty ninja z Wioski Ukrytego Liścia. Jego największym marzeniem jest zostanie Hokage, jednak każdy w wiosce naśmiewa się z niego i mówi mu, że nie da rady. Naruto jednak nie poddaje się i stawia czoła wszystkim przeszkodom na swojej drodze, czym udowadnia innym, że się co do niego grubo mylili. Z czasem, ze słabego dzieciaka, którego każdy uważał za nic więcej jak potwora i nieudacznika, Naruto staje się silnym i odważnym shinobi, który ze wszystkich sił broni wioski i swoich przyjaciół, narażając przy tym własne życie.
+			</tekst>
+		</opis>
+	</nazwa_anime>
+	
+	<nazwa_anime nazwa="Death Note">
+		<nazwa>Death Note</nazwa>
+		<opis>
+			<gatunek shōnen="yes">
+				<tekst>gatunek: shōnen</tekst>
+				<zalecany_odb odb="młodzież">
+					<tekst>dla młodzieży</tekst>
+				</zalecany_odb>
+			</gatunek>
+			<ile_odc ponadsto="tak">
+				<tekst>Liczba odc:</tekst>
+				<odc>37</odc>
+			</ile_odc>
+			<pierwowzór pierw="manga">
+				<tekst>na podstawie mangi</tekst>
+			</pierwowzór>
+			<tekst>
+			Yagami Light, nastoletni licealista, będący prymusem w każdej dziedzinie, pewnego dnia znajduje nietypowy notatnik, którego okładka ozdobiona jest napisem „Death Note”. Według zapisanych w nim zasad, wpisując imię i nazwisko wybranej osoby (a także znając jej wygląd) można sprawić, by ta osoba zmarła na zawał serca lub w inny określony przez użytkownika sposób.
+			Light początkowo myśli, że to żart. Jednak z ciekawości wpisuje dane kryminalisty pokazanego w telewizji. Jak się po chwili okazuje, ów notatnik działa, a co więcej - należy on do jednego z Shinigami o imieniu Ryuuku. Według zasad obowiązujących w świecie Shinigami, Ryuuku musi zostać z Lightem aż do jego śmierci. Jest on widoczny tylko dla osób, które dotknęły notatnika, co nasz geniusz nieraz wykorzysta.
+			Yagami szybko oswaja się z obecnością boga śmierci oraz zabójczą mocą, którą posiadł. Co więcej postanawia ją wykorzystać, by stworzyć idealny świat i stać się jego panem. Od czasu, gdy zaczął zabijać najgroźniejszych kryminalistów zyskał rzesze fanów nazywających go Kirą, ale także wielu wrogów, do których należą m.in. amerykańskie FBI, japońska policja oraz słynny anonimowy detektyw L, stojący na czele grupy zadaniowej, do której należy również ojciec Kiry. Tak właśnie zaczęła się walka między Yagamim Lightem (Kirą) i L-em.
+			</tekst>
+		</opis>
+	</nazwa_anime>
+	
+	<nazwa_anime nazwa="One Piece">
+		<nazwa>One Piece</nazwa>
+		<opis>
+			<gatunek shōnen="yes">
+				<tekst>gatunek: shōnen</tekst>
+				<zalecany_odb odb="dzieci/młodzież">
+					<tekst>dla dzieci i młodzieży</tekst>
+				</zalecany_odb>
+			</gatunek>
+			<ile_odc ponadsto="tak">
+				<tekst>Liczba odc:</tekst>
+				<odc> 956 </odc>
+			</ile_odc>
+			<pierwowzór pierw="manga">
+				<tekst>na podstawie mangi</tekst>
+			</pierwowzór>
+			<tekst>
+			One Piece opowiada nam historię młodego, nieznanego światu pirata o jakże złowieszczym i mrożącym krew w żyłach imieniu Luffy, który za cel życia obrał sobie całkiem drobne marzenie - zostanie Królem Piratów! W świecie One Piece znajduje się 5 oceanów; cztery z nich to odpowiednio South/North/East/West Blue, piątym zaś (największym, najniebezpieczniejszym i usianym wysepkami) jest Grand Line. To właśnie gdzieś na tym piątym oceanie znajduje się tytułowy One Piece - skarb pozostawiony przez poprzedniego Króla Piratów Gol D. Rogera, którego to skarbu właściciel staje się władcą Grand Line. Oczywistym jest, że Luffy, choć piekielnie silny, samotnie nigdy nie da rady zrealizować swojego marzenia - nie sposób wszak samemu sterować statkiem... I to nie byle łajbą ale prawdziwą piracką galerą, toteż priorytetem naszego rubasznego bohatera staje się zebranie załogi! Kto będzie tę załogę stanowił? Czy okażą się kompanami godnymi zaufania czy też pazernymi hedonistami? Na czym polega nieludzka siła Luffyego? Odpowiedzi na te wszystkie i wiele więcej pytań czekają na was.
+			</tekst>
+		</opis>
+	</nazwa_anime>
+	
+	<nazwa_anime nazwa="Akira">
+		<nazwa>Akira</nazwa>
+		<opis>
+			<gatunek shōnen="no">
+				<tekst>gatunek: seinen</tekst>
+				<zalecany_odb odb="młodzież/dorośli">
+					<tekst>dla młodzieży i dorosłych</tekst>
+				</zalecany_odb>
+			</gatunek>
+			<ile_odc ponadsto="no">
+				<tekst>Liczba odc:</tekst>
+				<tekst>film</tekst>
+			</ile_odc>
+			<pierwowzór pierw="manga">
+				<tekst>na podstawie mangi</tekst>
+			</pierwowzór>
+			<tekst>
+			Neo Tokyo, 2019 rok, 31 lat po III wojnie światowej. Ciemność nocy rozproszona blaskiem neonów, przestrzeń rozdarta bryłami wieżowców. Świat ogarnięty chaosem porusza się w tempie nadawanym przez pęd ludzkości. Kaneda - młody przywódca gangu motocyklowego, jego porywczy przyjaciel - Tetsuo, piękna Kei, tajemniczy chłopiec o imieniu Toshiro... w sercu miasta, które nigdy nie zasypia, nieustannie tętniąc elektrycznie podtrzymywanym życiem, miotane falami powstań i rozruchów, splatają się losy przypadkowych ludzi - ludzi, których życia przeznaczenie rozstawia jak pionki na szachownicy, w grze o przyszłość, o wolność, o człowieczeństwo.
+			</tekst>
+		</opis>
+	</nazwa_anime>
+	
+	<nazwa_anime nazwa="Your Name">
+		<nazwa>Your Name</nazwa>
+		<opis>
+			<gatunek shōnen="no">
+				<tekst>gatunek: seinen</tekst>
+				<zalecany_odb odb="młodzież">
+					<tekst>dla młodzieży</tekst>
+				</zalecany_odb>
+			</gatunek>
+			<ile_odc ponadsto="nie">
+				<tekst>Liczba odc:</tekst>
+				<tekst>film</tekst>
+			</ile_odc>
+			<pierwowzór pierw="brak">
+				<tekst>produkcja orginalna</tekst>
+			</pierwowzór>
+			<tekst>
+			Historia rozgrywa się wokół dwójki głównych bohaterów. Pierwszą z nich jest Mitsuha – uczennica liceum, spędzająca swoje życie w niezbyt dużej wiosce wraz z młodszą siostrą i babcią. Dziewczyna jest bardzo uczciwa i rzetelna, jednak nie znosi zwyczajów swojej rodziny, nie wspominając o ojcu, który jest politykiem i przez zbliżające się wybory praktycznie nie widuje się ze swoimi córkami. Największym marzeniem Mitsuhy jest skosztowanie życia w Tokio. Drugim z bohaterów jest licealista żyjący w samym centrum stolicy, zafascynowany architekturą i sztukami pięknymi. W wolnym czasie spotyka się ze znajomymi i pracuje we włoskiej restauracji. Pewnego dnia Mitsuha ma sen o byciu młodym chłopakiem. Taki również ma sen o byciu dziewczyną w małej wiosce w górach, w której nigdy nie był. Jaki jest sekret ich snów i doświadczeń?
+			</tekst>
+		</opis>
+	</nazwa_anime>
+	</co>
+	
+	<links>
+		<link source="https://shinden.pl/series/11-naruto">Naruto</link>
+		<link source="https://shinden.pl/series/2395-death-note">Death Note</link>
+		<link source="https://shinden.pl/titles/12-one-piece">One Piece</link>
+		<link source="https://shinden.pl/series/29-akira">Akira</link>
+		<link source="https://shinden.pl/series/45192-kimi-no-na-wa">Your Name</link>
+	</links>
+	<media>
+		<image source="img/minato.jpg">Minato z Naruto</image>
+		<image source="img/one.jpg">One Piece</image>
+		<image source="img/name.png">Your Name</image>
+		<image source="img/saitama.png">Saitama</image>
+	</media>
+	<dzk>dziekuje za uwage</dzk>
+	<ser>serdecznie</ser>
+	<nazw>Kacper Kulaszewicz</nazw>
+</anime>
+
+									
+	

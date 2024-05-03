@@ -1,0 +1,168 @@
+html, body
+{
+	background-color: #ff66ff;
+	color:black;
+	font-family: 'Lato', sans-serif;
+	font-size:20px;
+}
+
+.container
+{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#header
+{
+	color: white;
+	margin-top: 20px;
+	font-size: 42px;
+	letter-spacing: 3px;
+	background-color:#cc33ff;
+	text-align:center;
+	
+}
+
+#left
+{
+	float: left;
+	background-color: lightgray;
+	width: 140px;
+	min-height: 620px;
+	padding: 10px;
+}
+
+#content
+{
+	float: left;
+	padding: 20px;
+	width: 640px;
+	background-color:white;
+	min-height:600px;
+}
+#right
+{
+	float: left;
+	width: 140px;
+	min-height: 620px;
+	padding: 10px;
+	background-color: lightgray;
+}
+
+#footer
+{
+	clear:both;
+	text-align:center;
+	color:white;
+	padding:20px;
+}
+
+.opcja
+{
+	float: left;
+	width: 148px;
+	height: 25px;
+	font-size: 18px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	opacity: 0.8;
+	border-bottom: 2px dotted #444444;
+}
+
+.opcja:hover
+{
+	background-color: #9966cc;
+	cursor: pointer;
+}
+
+.wybor
+{
+	color:black;
+	text-decoration: none;
+}
+
+.wybor:hover
+{
+	color:red;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+@media (min-width: 1100px) {
+
+.container {width:1050px;}
+
+#left {width:15%;}
+
+#content {width:60%;}
+
+#right {width:15%;}
+
+}
+
+@media (max-width: 1100px) and (min-width: 1000px) {
+
+.container {width:950px;}
+
+#left {width:15%;}
+
+#content {width:60%;}
+
+#right {width:15%;}
+
+}
+
+a.link
+{
+	color: black;
+	text-decoration: none;
+}
+
+.zrodlo
+{
+	color: red;
+	text-decoration: none;
+	float: left;
+}
+.zrodlo:hover
+{
+	color: blue;
+	text-decoration: none;
+}
+.zrodlo:visited
+{
+	color: black;
+	text-decoration: none;
+}
+
+#tabela
+{
+	border: 1px solid black;
+}
+.td
+{
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.rastr
+{
+	margin-left:10px;
+	margin-right:10px;
+	float:left;
+	width: 10%;
+	height: 10%;
+}
+
+.rastr:hover
+{
+	width: 50%;
+	height: 50%;
+}
+
+.img
+{
+	width: 160px;
+	height: 160px;
+}
